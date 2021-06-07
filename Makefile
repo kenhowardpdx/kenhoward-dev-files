@@ -1,4 +1,6 @@
-.PHONY: publish
+.PHONY: \
+	publish \
+	publish-force \
 
 S3_BUCKET := kenhoward-dev
 
